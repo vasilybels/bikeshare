@@ -14,6 +14,13 @@ I used the official shapefile for the [2020 NYC Tabulation Areas](https://data.c
 
 I was specifically working with the March 2024 and March 2025 datasets, which you don't have to do. Just go to the Lyft website and look up the name of the file you wish to import. By following the scripts outlined [here](bikeshare.ipynb), you can learn to perform a spatial join from start to finish for your own projects.
 
+### Results
+
+As for my personal project, here are some graphics (created with Datawrapper) that I was able to include in my data story.
+
+![](assets/7P09y-bike-activity-between-brooklyn-amp-manhattan-below-60th-st-.png)
+![](assets/ZbshZ-brooklyn-neighborhoods-by-change-in-manhattan-rides.png)
+
 ### Use, sharing, contributing
 
 Feel free to use this code however you want. Perhaps in the future I can turn this into a library of useful Pandas scripts for data journalists.
